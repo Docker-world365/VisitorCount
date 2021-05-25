@@ -1,0 +1,19 @@
+{
+  "name": "visits",
+  "version": "1.0.0",
+  "description": "Visitors count",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  
+  "author": "vipul sonar",
+  "license": "ISC",
+  
+  "dependencies": {
+    "express": "*",
+    "redis":"2.8.0"
+  }
+  
+}
+
